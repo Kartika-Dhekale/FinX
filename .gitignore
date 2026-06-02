@@ -1,0 +1,11 @@
+node_modules/
+.next/
+dist/
+build/
+.env
+
+Frontend/node_modules/
+Frontend/.next/
+
+Backend/node_modules/
+Backend/dist/
